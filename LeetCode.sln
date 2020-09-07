@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "回文数", "回文数\回�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "二叉树的所有路径", "二叉树的所有路径\二叉树的所有路径.csproj", "{F2B37EDD-F5F5-4A09-A67D-616DB8C23DA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "移除元素", "移除元素\移除元素.csproj", "{5E91CB97-672C-40FC-8614-81D7E217CA7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "移除元素", "移除元素\移除元素.csproj", "{5E91CB97-672C-40FC-8614-81D7E217CA7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树的层次遍历II", "二叉树的层次遍历II\二叉树的层次遍历II.csproj", "{1D6F6B71-5FA3-4EB3-BBB7-CCA40011B351}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "二叉树的层次遍历II", "二叉树的层次遍历II\二叉树的层次遍历II.csproj", "{1D6F6B71-5FA3-4EB3-BBB7-CCA40011B351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "前K个高频元素", "前K个高频元素\前K个高频元素.csproj", "{5B2B5D2B-C2EB-4BD0-903E-3FB773449223}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1D6F6B71-5FA3-4EB3-BBB7-CCA40011B351}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D6F6B71-5FA3-4EB3-BBB7-CCA40011B351}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D6F6B71-5FA3-4EB3-BBB7-CCA40011B351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2B5D2B-C2EB-4BD0-903E-3FB773449223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2B5D2B-C2EB-4BD0-903E-3FB773449223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2B5D2B-C2EB-4BD0-903E-3FB773449223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2B5D2B-C2EB-4BD0-903E-3FB773449223}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
