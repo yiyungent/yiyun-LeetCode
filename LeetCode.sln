@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "二叉树的层次遍历II"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "前K个高频元素", "前K个高频元素\前K个高频元素.csproj", "{5B2B5D2B-C2EB-4BD0-903E-3FB773449223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "好数对的数目", "好数对的数目\好数对的数目.csproj", "{4286B3B8-FA68-4D99-B4D7-AF230B7B27A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "好数对的数目", "好数对的数目\好数对的数目.csproj", "{4286B3B8-FA68-4D99-B4D7-AF230B7B27A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "有效的括号", "有效的括号\有效的括号.csproj", "{DD117359-836B-46F0-A95C-A7F18C03EF79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{4286B3B8-FA68-4D99-B4D7-AF230B7B27A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4286B3B8-FA68-4D99-B4D7-AF230B7B27A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4286B3B8-FA68-4D99-B4D7-AF230B7B27A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD117359-836B-46F0-A95C-A7F18C03EF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD117359-836B-46F0-A95C-A7F18C03EF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD117359-836B-46F0-A95C-A7F18C03EF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD117359-836B-46F0-A95C-A7F18C03EF79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
