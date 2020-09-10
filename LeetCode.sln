@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "前K个高频元素", "前K
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "好数对的数目", "好数对的数目\好数对的数目.csproj", "{4286B3B8-FA68-4D99-B4D7-AF230B7B27A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "有效的括号", "有效的括号\有效的括号.csproj", "{DD117359-836B-46F0-A95C-A7F18C03EF79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "有效的括号", "有效的括号\有效的括号.csproj", "{DD117359-836B-46F0-A95C-A7F18C03EF79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指Offer05.替换空格", "剑指Offer05.替换空格\剑指Offer05.替换空格.csproj", "{F28438BD-9086-4C9F-AD1E-F34A18BCC482}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{DD117359-836B-46F0-A95C-A7F18C03EF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD117359-836B-46F0-A95C-A7F18C03EF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD117359-836B-46F0-A95C-A7F18C03EF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28438BD-9086-4C9F-AD1E-F34A18BCC482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28438BD-9086-4C9F-AD1E-F34A18BCC482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28438BD-9086-4C9F-AD1E-F34A18BCC482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28438BD-9086-4C9F-AD1E-F34A18BCC482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
