@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "有效的括号", "有效�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指Offer05.替换空格", "剑指Offer05.替换空格\剑指Offer05.替换空格.csproj", "{F28438BD-9086-4C9F-AD1E-F34A18BCC482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指Offer10-II.青蛙跳台阶", "剑指Offer10-II.青蛙跳台阶\剑指Offer10-II.青蛙跳台阶.csproj", "{B57DB0E7-F8DC-4022-9954-B43CB5C6F6FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指Offer10-II.青蛙跳台阶", "剑指Offer10-II.青蛙跳台阶\剑指Offer10-II.青蛙跳台阶.csproj", "{B57DB0E7-F8DC-4022-9954-B43CB5C6F6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 10- I. 斐波那契数列", "剑指 Offer 10- I. 斐波那契数列\剑指 Offer 10- I. 斐波那契数列.csproj", "{29255399-C194-4FA1-985A-D5B7B0539535}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{B57DB0E7-F8DC-4022-9954-B43CB5C6F6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B57DB0E7-F8DC-4022-9954-B43CB5C6F6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B57DB0E7-F8DC-4022-9954-B43CB5C6F6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29255399-C194-4FA1-985A-D5B7B0539535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29255399-C194-4FA1-985A-D5B7B0539535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29255399-C194-4FA1-985A-D5B7B0539535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29255399-C194-4FA1-985A-D5B7B0539535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
