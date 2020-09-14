@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指Offer10-II.青蛙跳�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 10- I. 斐波那契数列", "剑指 Offer 10- I. 斐波那契数列\剑指 Offer 10- I. 斐波那契数列.csproj", "{29255399-C194-4FA1-985A-D5B7B0539535}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 18. 删除链表的节点", "剑指 Offer 18. 删除链表的节点\剑指 Offer 18. 删除链表的节点.csproj", "{7B19A9B3-2947-4A3B-879D-99AEB9CF7C02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 18. 删除链表的节点", "剑指 Offer 18. 删除链表的节点\剑指 Offer 18. 删除链表的节点.csproj", "{7B19A9B3-2947-4A3B-879D-99AEB9CF7C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 04. 二维数组中的查找", "剑指 Offer 04. 二维数组中的查找\剑指 Offer 04. 二维数组中的查找.csproj", "{D91D2EF9-A4B0-43AC-84C8-BA0C49E12BAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{7B19A9B3-2947-4A3B-879D-99AEB9CF7C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B19A9B3-2947-4A3B-879D-99AEB9CF7C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B19A9B3-2947-4A3B-879D-99AEB9CF7C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91D2EF9-A4B0-43AC-84C8-BA0C49E12BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91D2EF9-A4B0-43AC-84C8-BA0C49E12BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91D2EF9-A4B0-43AC-84C8-BA0C49E12BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91D2EF9-A4B0-43AC-84C8-BA0C49E12BAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
