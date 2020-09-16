@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>剑指_Offer_17._打印从1到最大的n位数</RootNamespace>
+  </PropertyGroup>
+
+</Project>
