@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 04. 二维数�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 17. 打印从1到最大的n位数", "剑指 Offer 17. 打印从1到最大的n位数\剑指 Offer 17. 打印从1到最大的n位数.csproj", "{AA42959B-9D28-4657-9721-B6FFDF2F59DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 24. 反转链表", "剑指 Offer 24. 反转链表\剑指 Offer 24. 反转链表.csproj", "{2C683E82-371F-411D-BC20-6012F94B859F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 24. 反转链表", "剑指 Offer 24. 反转链表\剑指 Offer 24. 反转链表.csproj", "{2C683E82-371F-411D-BC20-6012F94B859F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 03. 数组中重复的数字", "剑指 Offer 03. 数组中重复的数字\剑指 Offer 03. 数组中重复的数字.csproj", "{4122325B-5B1F-4CEB-9B4C-A1DD04E3B288}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{2C683E82-371F-411D-BC20-6012F94B859F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C683E82-371F-411D-BC20-6012F94B859F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C683E82-371F-411D-BC20-6012F94B859F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4122325B-5B1F-4CEB-9B4C-A1DD04E3B288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4122325B-5B1F-4CEB-9B4C-A1DD04E3B288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4122325B-5B1F-4CEB-9B4C-A1DD04E3B288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4122325B-5B1F-4CEB-9B4C-A1DD04E3B288}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
