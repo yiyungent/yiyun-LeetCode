@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>剑指_Offer_58___I._翻转单词顺序</RootNamespace>
+  </PropertyGroup>
+
+</Project>
