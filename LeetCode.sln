@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 06. 从尾到�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 58 - I. 翻转单词顺序", "剑指 Offer 58 - I. 翻转单词顺序\剑指 Offer 58 - I. 翻转单词顺序.csproj", "{9C5DDE24-7D3D-4DAD-A7F5-D9987D94F679}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 22. 链表中倒数第k个节点", "剑指 Offer 22. 链表中倒数第k个节点\剑指 Offer 22. 链表中倒数第k个节点.csproj", "{D1A7B99E-F6CA-4A68-BC4B-61124B98C199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 22. 链表中倒数第k个节点", "剑指 Offer 22. 链表中倒数第k个节点\剑指 Offer 22. 链表中倒数第k个节点.csproj", "{D1A7B99E-F6CA-4A68-BC4B-61124B98C199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 25. 合并两个排序的链表", "剑指 Offer 25. 合并两个排序的链表\剑指 Offer 25. 合并两个排序的链表.csproj", "{B5B49D6D-E88E-4FDA-85ED-C3B88B75F0AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{D1A7B99E-F6CA-4A68-BC4B-61124B98C199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1A7B99E-F6CA-4A68-BC4B-61124B98C199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1A7B99E-F6CA-4A68-BC4B-61124B98C199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B49D6D-E88E-4FDA-85ED-C3B88B75F0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B49D6D-E88E-4FDA-85ED-C3B88B75F0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B49D6D-E88E-4FDA-85ED-C3B88B75F0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B49D6D-E88E-4FDA-85ED-C3B88B75F0AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
