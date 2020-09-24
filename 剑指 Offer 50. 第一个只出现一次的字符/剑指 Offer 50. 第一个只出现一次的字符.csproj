@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>剑指_Offer_50._第一个只出现一次的字符</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 25. 合并两�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 09. 用两个栈实现队列", "剑指 Offer 09. 用两个栈实现队列\剑指 Offer 09. 用两个栈实现队列.csproj", "{BFD26F42-4054-4B78-A7F3-0F77D05954D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 52. 两个链表的第一个公共节点", "剑指 Offer 52. 两个链表的第一个公共节点\剑指 Offer 52. 两个链表的第一个公共节点.csproj", "{18C0446A-7445-4EB1-B109-EAF51B9D05B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 52. 两个链表的第一个公共节点", "剑指 Offer 52. 两个链表的第一个公共节点\剑指 Offer 52. 两个链表的第一个公共节点.csproj", "{18C0446A-7445-4EB1-B109-EAF51B9D05B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 50. 第一个只出现一次的字符", "剑指 Offer 50. 第一个只出现一次的字符\剑指 Offer 50. 第一个只出现一次的字符.csproj", "{4BD69029-D278-4458-847D-F29ED699F694}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{18C0446A-7445-4EB1-B109-EAF51B9D05B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18C0446A-7445-4EB1-B109-EAF51B9D05B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18C0446A-7445-4EB1-B109-EAF51B9D05B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD69029-D278-4458-847D-F29ED699F694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD69029-D278-4458-847D-F29ED699F694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD69029-D278-4458-847D-F29ED699F694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD69029-D278-4458-847D-F29ED699F694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
