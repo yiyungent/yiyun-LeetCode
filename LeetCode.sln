@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 09. 用两个�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 52. 两个链表的第一个公共节点", "剑指 Offer 52. 两个链表的第一个公共节点\剑指 Offer 52. 两个链表的第一个公共节点.csproj", "{18C0446A-7445-4EB1-B109-EAF51B9D05B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 50. 第一个只出现一次的字符", "剑指 Offer 50. 第一个只出现一次的字符\剑指 Offer 50. 第一个只出现一次的字符.csproj", "{4BD69029-D278-4458-847D-F29ED699F694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 50. 第一个只出现一次的字符", "剑指 Offer 50. 第一个只出现一次的字符\剑指 Offer 50. 第一个只出现一次的字符.csproj", "{4BD69029-D278-4458-847D-F29ED699F694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 39. 数组中出现次数超过一半的数字", "剑指 Offer 39. 数组中出现次数超过一半的数字\剑指 Offer 39. 数组中出现次数超过一半的数字.csproj", "{21CFD828-3585-4E5C-BA57-36F233F99695}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{4BD69029-D278-4458-847D-F29ED699F694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BD69029-D278-4458-847D-F29ED699F694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BD69029-D278-4458-847D-F29ED699F694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CFD828-3585-4E5C-BA57-36F233F99695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CFD828-3585-4E5C-BA57-36F233F99695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CFD828-3585-4E5C-BA57-36F233F99695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CFD828-3585-4E5C-BA57-36F233F99695}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
