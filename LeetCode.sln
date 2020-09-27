@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 50. 第一个�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 39. 数组中出现次数超过一半的数字", "剑指 Offer 39. 数组中出现次数超过一半的数字\剑指 Offer 39. 数组中出现次数超过一半的数字.csproj", "{21CFD828-3585-4E5C-BA57-36F233F99695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 40. 最小的k个数", "剑指 Offer 40. 最小的k个数\剑指 Offer 40. 最小的k个数.csproj", "{8B1796B5-F29B-41E1-BCD7-BFC9FC9C4852}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 40. 最小的k个数", "剑指 Offer 40. 最小的k个数\剑指 Offer 40. 最小的k个数.csproj", "{8B1796B5-F29B-41E1-BCD7-BFC9FC9C4852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 57. 和为s的两个数字", "剑指 Offer 57. 和为s的两个数字\剑指 Offer 57. 和为s的两个数字.csproj", "{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{8B1796B5-F29B-41E1-BCD7-BFC9FC9C4852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B1796B5-F29B-41E1-BCD7-BFC9FC9C4852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B1796B5-F29B-41E1-BCD7-BFC9FC9C4852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
