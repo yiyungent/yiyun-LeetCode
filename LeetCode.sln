@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 39. 数组中�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 40. 最小的k个数", "剑指 Offer 40. 最小的k个数\剑指 Offer 40. 最小的k个数.csproj", "{8B1796B5-F29B-41E1-BCD7-BFC9FC9C4852}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 57. 和为s的两个数字", "剑指 Offer 57. 和为s的两个数字\剑指 Offer 57. 和为s的两个数字.csproj", "{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 57. 和为s的两个数字", "剑指 Offer 57. 和为s的两个数字\剑指 Offer 57. 和为s的两个数字.csproj", "{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 21. 调整数组顺序使奇数位于偶数前面", "剑指 Offer 21. 调整数组顺序使奇数位于偶数前面\剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.csproj", "{09AD3248-FF48-4E84-B5E0-A6B8C5EE6BAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AAEECE9-7F30-4D02-8286-47BECD7FAAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09AD3248-FF48-4E84-B5E0-A6B8C5EE6BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AD3248-FF48-4E84-B5E0-A6B8C5EE6BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AD3248-FF48-4E84-B5E0-A6B8C5EE6BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AD3248-FF48-4E84-B5E0-A6B8C5EE6BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
