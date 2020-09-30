@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 57. 和为s的
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 21. 调整数组顺序使奇数位于偶数前面", "剑指 Offer 21. 调整数组顺序使奇数位于偶数前面\剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.csproj", "{09AD3248-FF48-4E84-B5E0-A6B8C5EE6BAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 58 - II. 左旋转字符串", "剑指 Offer 58 - II. 左旋转字符串\剑指 Offer 58 - II. 左旋转字符串.csproj", "{7F12B046-E629-446C-BD7D-5CF6B656C78C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 58 - II. 左旋转字符串", "剑指 Offer 58 - II. 左旋转字符串\剑指 Offer 58 - II. 左旋转字符串.csproj", "{7F12B046-E629-446C-BD7D-5CF6B656C78C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 62. 圆圈中最后剩下的数字", "剑指 Offer 62. 圆圈中最后剩下的数字\剑指 Offer 62. 圆圈中最后剩下的数字.csproj", "{E91A03CB-26C3-407B-BF64-7F84B6B1F560}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{7F12B046-E629-446C-BD7D-5CF6B656C78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F12B046-E629-446C-BD7D-5CF6B656C78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F12B046-E629-446C-BD7D-5CF6B656C78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91A03CB-26C3-407B-BF64-7F84B6B1F560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91A03CB-26C3-407B-BF64-7F84B6B1F560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91A03CB-26C3-407B-BF64-7F84B6B1F560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91A03CB-26C3-407B-BF64-7F84B6B1F560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
