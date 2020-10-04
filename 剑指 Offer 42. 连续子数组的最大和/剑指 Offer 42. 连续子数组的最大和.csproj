@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>剑指_Offer_42._连续子数组的最大和</RootNamespace>
+  </PropertyGroup>
+
+</Project>

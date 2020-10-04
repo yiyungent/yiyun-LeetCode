@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 62. 圆圈中�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 15. 二进制中1的个数", "剑指 Offer 15. 二进制中1的个数\剑指 Offer 15. 二进制中1的个数.csproj", "{AC90ED16-29E4-4E1E-8FEB-FF8791957C73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 31. 栈的压入、弹出序列", "剑指 Offer 31. 栈的压入、弹出序列\剑指 Offer 31. 栈的压入、弹出序列.csproj", "{5AA19A94-0322-46F2-BDB5-1D21F0114890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 31. 栈的压入、弹出序列", "剑指 Offer 31. 栈的压入、弹出序列\剑指 Offer 31. 栈的压入、弹出序列.csproj", "{5AA19A94-0322-46F2-BDB5-1D21F0114890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 42. 连续子数组的最大和", "剑指 Offer 42. 连续子数组的最大和\剑指 Offer 42. 连续子数组的最大和.csproj", "{80118BC9-817F-45F8-974F-CAFAD06DBA65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{5AA19A94-0322-46F2-BDB5-1D21F0114890}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AA19A94-0322-46F2-BDB5-1D21F0114890}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AA19A94-0322-46F2-BDB5-1D21F0114890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80118BC9-817F-45F8-974F-CAFAD06DBA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80118BC9-817F-45F8-974F-CAFAD06DBA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80118BC9-817F-45F8-974F-CAFAD06DBA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80118BC9-817F-45F8-974F-CAFAD06DBA65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
