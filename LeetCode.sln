@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 42. 连续子�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5515. 设计停车系统", "5515. 设计停车系统\5515. 设计停车系统.csproj", "{12115E79-0198-4AF9-B785-3DC0B8A3C378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 30. 包含min函数的栈", "剑指 Offer 30. 包含min函数的栈\剑指 Offer 30. 包含min函数的栈.csproj", "{43BF75A0-78D5-4683-9452-6F6BE37CEADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 30. 包含min函数的栈", "剑指 Offer 30. 包含min函数的栈\剑指 Offer 30. 包含min函数的栈.csproj", "{43BF75A0-78D5-4683-9452-6F6BE37CEADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70. 爬楼梯", "70. 爬楼梯\70. 爬楼梯.csproj", "{185A2EE2-F2C4-4F7B-8231-87FEF053E581}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{43BF75A0-78D5-4683-9452-6F6BE37CEADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43BF75A0-78D5-4683-9452-6F6BE37CEADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43BF75A0-78D5-4683-9452-6F6BE37CEADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185A2EE2-F2C4-4F7B-8231-87FEF053E581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185A2EE2-F2C4-4F7B-8231-87FEF053E581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185A2EE2-F2C4-4F7B-8231-87FEF053E581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185A2EE2-F2C4-4F7B-8231-87FEF053E581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
