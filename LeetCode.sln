@@ -81,7 +81,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "867. 转置矩阵", "867. �
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "202. 快乐数", "202. 快乐数\202. 快乐数.csproj", "{BD90DF3A-DDF0-4D6B-859D-BD029CFB32E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面试题 02.03. 删除中间节点", "面试题 02.03. 删除中间节点\面试题 02.03. 删除中间节点.csproj", "{11EFE965-6F70-4D13-ADE8-1A88DAC4B3C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面试题 02.03. 删除中间节点", "面试题 02.03. 删除中间节点\面试题 02.03. 删除中间节点.csproj", "{11EFE965-6F70-4D13-ADE8-1A88DAC4B3C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431. 拥有最多糖果的孩子", "1431. 拥有最多糖果的孩子\1431. 拥有最多糖果的孩子.csproj", "{DB26C548-1A4E-4882-A22C-7B73752E302E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{11EFE965-6F70-4D13-ADE8-1A88DAC4B3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11EFE965-6F70-4D13-ADE8-1A88DAC4B3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11EFE965-6F70-4D13-ADE8-1A88DAC4B3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB26C548-1A4E-4882-A22C-7B73752E302E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB26C548-1A4E-4882-A22C-7B73752E302E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB26C548-1A4E-4882-A22C-7B73752E302E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB26C548-1A4E-4882-A22C-7B73752E302E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
