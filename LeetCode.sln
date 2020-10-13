@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面试题 02.03. 删除中�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431. 拥有最多糖果的孩子", "1431. 拥有最多糖果的孩子\1431. 拥有最多糖果的孩子.csproj", "{DB26C548-1A4E-4882-A22C-7B73752E302E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118. 杨辉三角", "118. 杨辉三角\118. 杨辉三角.csproj", "{2A5478A5-95CA-443F-B3DD-A85D25DB9B7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "118. 杨辉三角", "118. 杨辉三角\118. 杨辉三角.csproj", "{2A5478A5-95CA-443F-B3DD-A85D25DB9B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "171. Excel表列序号", "171. Excel表列序号\171. Excel表列序号.csproj", "{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{2A5478A5-95CA-443F-B3DD-A85D25DB9B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A5478A5-95CA-443F-B3DD-A85D25DB9B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A5478A5-95CA-443F-B3DD-A85D25DB9B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
