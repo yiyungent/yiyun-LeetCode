@@ -87,7 +87,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431. 拥有最多糖果的
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "118. 杨辉三角", "118. 杨辉三角\118. 杨辉三角.csproj", "{2A5478A5-95CA-443F-B3DD-A85D25DB9B7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "171. Excel表列序号", "171. Excel表列序号\171. Excel表列序号.csproj", "{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "171. Excel表列序号", "171. Excel表列序号\171. Excel表列序号.csproj", "{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169. 多数元素", "169. 多数元素\169. 多数元素.csproj", "{B237630F-BB2E-4976-847C-611D32230A3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +269,10 @@ Global
 		{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{720FE3D5-4F25-48A2-B9CC-B7DB7932CC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B237630F-BB2E-4976-847C-611D32230A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B237630F-BB2E-4976-847C-611D32230A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B237630F-BB2E-4976-847C-611D32230A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B237630F-BB2E-4976-847C-611D32230A3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
