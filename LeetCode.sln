@@ -95,7 +95,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1470. 重新排列数组", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "283. 移动零", "283. 移动零\283. 移动零.csproj", "{5DC67D3C-9C9F-40F5-9787-404D61AAAF9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "412. Fizz Buzz", "412. Fizz Buzz\412. Fizz Buzz.csproj", "{9BA90E10-9321-4FF0-9B32-19EF439D8F3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "412. Fizz Buzz", "412. Fizz Buzz\412. Fizz Buzz.csproj", "{9BA90E10-9321-4FF0-9B32-19EF439D8F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480. 一维数组的动态和", "1480. 一维数组的动态和\1480. 一维数组的动态和.csproj", "{C2E2A8A6-5675-481F-BEE6-152BC7BDF0BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{9BA90E10-9321-4FF0-9B32-19EF439D8F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA90E10-9321-4FF0-9B32-19EF439D8F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA90E10-9321-4FF0-9B32-19EF439D8F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E2A8A6-5675-481F-BEE6-152BC7BDF0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E2A8A6-5675-481F-BEE6-152BC7BDF0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E2A8A6-5675-481F-BEE6-152BC7BDF0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E2A8A6-5675-481F-BEE6-152BC7BDF0BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
