@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1108. IP 地址无效化", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LCP 06. 拿硬币", "LCP 06. 拿硬币\LCP 06. 拿硬币.csproj", "{A4AB1E89-FFF1-4665-8133-7360B3DA13DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125. 验证回文串", "125. 验证回文串\125. 验证回文串.csproj", "{6FFF0AD9-3E8A-4D9F-9ABC-FCD9AFF2F64D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "125. 验证回文串", "125. 验证回文串\125. 验证回文串.csproj", "{6FFF0AD9-3E8A-4D9F-9ABC-FCD9AFF2F64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155. 最小栈", "155. 最小栈\155. 最小栈.csproj", "{988EC575-2C7D-4C1A-A151-FC37059F1493}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6FFF0AD9-3E8A-4D9F-9ABC-FCD9AFF2F64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FFF0AD9-3E8A-4D9F-9ABC-FCD9AFF2F64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FFF0AD9-3E8A-4D9F-9ABC-FCD9AFF2F64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988EC575-2C7D-4C1A-A151-FC37059F1493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988EC575-2C7D-4C1A-A151-FC37059F1493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988EC575-2C7D-4C1A-A151-FC37059F1493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988EC575-2C7D-4C1A-A151-FC37059F1493}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
