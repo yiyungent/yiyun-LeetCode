@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LCP 06. 拿硬币", "LCP 06
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "125. 验证回文串", "125. 验证回文串\125. 验证回文串.csproj", "{6FFF0AD9-3E8A-4D9F-9ABC-FCD9AFF2F64D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155. 最小栈", "155. 最小栈\155. 最小栈.csproj", "{988EC575-2C7D-4C1A-A151-FC37059F1493}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "155. 最小栈", "155. 最小栈\155. 最小栈.csproj", "{988EC575-2C7D-4C1A-A151-FC37059F1493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. 丢失的数字", "268. 丢失的数字\268. 丢失的数字.csproj", "{D2CE3B40-E0A9-49B7-B35C-6141470364EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{988EC575-2C7D-4C1A-A151-FC37059F1493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{988EC575-2C7D-4C1A-A151-FC37059F1493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{988EC575-2C7D-4C1A-A151-FC37059F1493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CE3B40-E0A9-49B7-B35C-6141470364EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CE3B40-E0A9-49B7-B35C-6141470364EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CE3B40-E0A9-49B7-B35C-6141470364EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CE3B40-E0A9-49B7-B35C-6141470364EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
