@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "155. 最小栈", "155. 最�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "268. 丢失的数字", "268. 丢失的数字\268. 丢失的数字.csproj", "{D2CE3B40-E0A9-49B7-B35C-6141470364EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1281. 整数的各位积和之差", "1281. 整数的各位积和之差\1281. 整数的各位积和之差.csproj", "{522FF7C6-2C0D-40C6-9BEC-DB3D6BD1B381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1281. 整数的各位积和之差", "1281. 整数的各位积和之差\1281. 整数的各位积和之差.csproj", "{522FF7C6-2C0D-40C6-9BEC-DB3D6BD1B381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "463. 岛屿的周长", "463. 岛屿的周长\463. 岛屿的周长.csproj", "{2B4F5413-AC8A-4720-BD4C-19BD6040BDA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{522FF7C6-2C0D-40C6-9BEC-DB3D6BD1B381}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{522FF7C6-2C0D-40C6-9BEC-DB3D6BD1B381}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{522FF7C6-2C0D-40C6-9BEC-DB3D6BD1B381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4F5413-AC8A-4720-BD4C-19BD6040BDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4F5413-AC8A-4720-BD4C-19BD6040BDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4F5413-AC8A-4720-BD4C-19BD6040BDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4F5413-AC8A-4720-BD4C-19BD6040BDA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
