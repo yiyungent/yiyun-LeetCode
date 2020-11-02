@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "463. 岛屿的周长", "463
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1365. 有多少小于当前数字的数字", "1365. 有多少小于当前数字的数字\1365. 有多少小于当前数字的数字.csproj", "{C4623FA9-2584-4EA7-815F-C58C1500D23E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1313. 解压缩编码列表", "1313. 解压缩编码列表\1313. 解压缩编码列表.csproj", "{6D214E2E-E30F-4C4B-B1B2-DD6320B22A70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1313. 解压缩编码列表", "1313. 解压缩编码列表\1313. 解压缩编码列表.csproj", "{6D214E2E-E30F-4C4B-B1B2-DD6320B22A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1389. 按既定顺序创建目标数组", "1389. 按既定顺序创建目标数组\1389. 按既定顺序创建目标数组.csproj", "{5B3499BB-8227-45AD-84C7-CBA95C2BB765}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{6D214E2E-E30F-4C4B-B1B2-DD6320B22A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D214E2E-E30F-4C4B-B1B2-DD6320B22A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D214E2E-E30F-4C4B-B1B2-DD6320B22A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3499BB-8227-45AD-84C7-CBA95C2BB765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3499BB-8227-45AD-84C7-CBA95C2BB765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3499BB-8227-45AD-84C7-CBA95C2BB765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3499BB-8227-45AD-84C7-CBA95C2BB765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
