@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1365. 有多少小于当前
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1313. 解压缩编码列表", "1313. 解压缩编码列表\1313. 解压缩编码列表.csproj", "{6D214E2E-E30F-4C4B-B1B2-DD6320B22A70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1389. 按既定顺序创建目标数组", "1389. 按既定顺序创建目标数组\1389. 按既定顺序创建目标数组.csproj", "{5B3499BB-8227-45AD-84C7-CBA95C2BB765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1389. 按既定顺序创建目标数组", "1389. 按既定顺序创建目标数组\1389. 按既定顺序创建目标数组.csproj", "{5B3499BB-8227-45AD-84C7-CBA95C2BB765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1614. 括号的最大嵌套深度", "1614. 括号的最大嵌套深度\1614. 括号的最大嵌套深度.csproj", "{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{5B3499BB-8227-45AD-84C7-CBA95C2BB765}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B3499BB-8227-45AD-84C7-CBA95C2BB765}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B3499BB-8227-45AD-84C7-CBA95C2BB765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
