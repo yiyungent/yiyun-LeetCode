@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1313. 解压缩编码列表
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1389. 按既定顺序创建目标数组", "1389. 按既定顺序创建目标数组\1389. 按既定顺序创建目标数组.csproj", "{5B3499BB-8227-45AD-84C7-CBA95C2BB765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1614. 括号的最大嵌套深度", "1614. 括号的最大嵌套深度\1614. 括号的最大嵌套深度.csproj", "{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1614. 括号的最大嵌套深度", "1614. 括号的最大嵌套深度\1614. 括号的最大嵌套深度.csproj", "{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342. 将数字变成 0 的操作次数", "1342. 将数字变成 0 的操作次数\1342. 将数字变成 0 的操作次数.csproj", "{1A8F6FDE-EC14-4C03-B787-46BC433733AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B3DE98E-CA85-4CE5-8422-DF95F0117C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8F6FDE-EC14-4C03-B787-46BC433733AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8F6FDE-EC14-4C03-B787-46BC433733AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8F6FDE-EC14-4C03-B787-46BC433733AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8F6FDE-EC14-4C03-B787-46BC433733AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
