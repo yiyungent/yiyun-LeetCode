@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1614. 括号的最大嵌套
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1342. 将数字变成 0 的操作次数", "1342. 将数字变成 0 的操作次数\1342. 将数字变成 0 的操作次数.csproj", "{1A8F6FDE-EC14-4C03-B787-46BC433733AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1266. 访问所有点的最小时间", "1266. 访问所有点的最小时间\1266. 访问所有点的最小时间.csproj", "{1628D080-933A-442D-9CCF-4E4C5978AAEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1266. 访问所有点的最小时间", "1266. 访问所有点的最小时间\1266. 访问所有点的最小时间.csproj", "{1628D080-933A-442D-9CCF-4E4C5978AAEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1588. 所有奇数长度子数组的和", "1588. 所有奇数长度子数组的和\1588. 所有奇数长度子数组的和.csproj", "{E06F26A9-4402-4A9F-B6EE-3CAC9F00B1BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{1628D080-933A-442D-9CCF-4E4C5978AAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1628D080-933A-442D-9CCF-4E4C5978AAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1628D080-933A-442D-9CCF-4E4C5978AAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06F26A9-4402-4A9F-B6EE-3CAC9F00B1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06F26A9-4402-4A9F-B6EE-3CAC9F00B1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06F26A9-4402-4A9F-B6EE-3CAC9F00B1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06F26A9-4402-4A9F-B6EE-3CAC9F00B1BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
