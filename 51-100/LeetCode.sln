@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1295. 统计位数为偶数
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1572. 矩阵对角线元素的和", "1572. 矩阵对角线元素的和\1572. 矩阵对角线元素的和.csproj", "{627430C0-0C86-4E13-A9BC-924F8B0B6B98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1290. 二进制链表转整数", "1290. 二进制链表转整数\1290. 二进制链表转整数.csproj", "{01CAB40D-023D-4421-BCEC-1C4518EF98F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1290. 二进制链表转整数", "1290. 二进制链表转整数\1290. 二进制链表转整数.csproj", "{01CAB40D-023D-4421-BCEC-1C4518EF98F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1528. 重新排列字符串", "1528. 重新排列字符串\1528. 重新排列字符串.csproj", "{6C053F8B-9722-4E81-A7A2-FAFDC80BF181}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{01CAB40D-023D-4421-BCEC-1C4518EF98F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01CAB40D-023D-4421-BCEC-1C4518EF98F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01CAB40D-023D-4421-BCEC-1C4518EF98F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C053F8B-9722-4E81-A7A2-FAFDC80BF181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C053F8B-9722-4E81-A7A2-FAFDC80BF181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C053F8B-9722-4E81-A7A2-FAFDC80BF181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C053F8B-9722-4E81-A7A2-FAFDC80BF181}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
