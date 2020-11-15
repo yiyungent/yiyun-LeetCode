@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1436. 旅行终点站", "14
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1021. 删除最外层的括号", "1021. 删除最外层的括号\1021. 删除最外层的括号.csproj", "{0A23DBAE-D292-42AA-BE8D-57C464E65757}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 55 - I. 二叉树的深度", "剑指 Offer 55 - I. 二叉树的深度\剑指 Offer 55 - I. 二叉树的深度.csproj", "{E05EAC6D-98D9-4115-96CE-482770F08CFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 55 - I. 二叉树的深度", "剑指 Offer 55 - I. 二叉树的深度\剑指 Offer 55 - I. 二叉树的深度.csproj", "{E05EAC6D-98D9-4115-96CE-482770F08CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "832. 翻转图像", "832. 翻转图像\832. 翻转图像.csproj", "{8589CF49-60A2-495D-85A7-7868D2D225D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{E05EAC6D-98D9-4115-96CE-482770F08CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05EAC6D-98D9-4115-96CE-482770F08CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05EAC6D-98D9-4115-96CE-482770F08CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8589CF49-60A2-495D-85A7-7868D2D225D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8589CF49-60A2-495D-85A7-7868D2D225D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8589CF49-60A2-495D-85A7-7868D2D225D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8589CF49-60A2-495D-85A7-7868D2D225D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
