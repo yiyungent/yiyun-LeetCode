@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "832. 翻转图像", "832. �
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "226. 翻转二叉树", "226. 翻转二叉树\226. 翻转二叉树.csproj", "{262A7573-DA86-4776-987C-E309BBA9697F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指 Offer 27. 二叉树的镜像", "剑指 Offer 27. 二叉树的镜像\剑指 Offer 27. 二叉树的镜像.csproj", "{2B8EDEF1-EE88-4C81-B09B-3775E404D574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指 Offer 27. 二叉树的镜像", "剑指 Offer 27. 二叉树的镜像\剑指 Offer 27. 二叉树的镜像.csproj", "{2B8EDEF1-EE88-4C81-B09B-3775E404D574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "590. N叉树的后序遍历", "590. N叉树的后序遍历\590. N叉树的后序遍历.csproj", "{7A248A4D-920B-4DB7-BDCC-37AB2AD38380}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{2B8EDEF1-EE88-4C81-B09B-3775E404D574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B8EDEF1-EE88-4C81-B09B-3775E404D574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B8EDEF1-EE88-4C81-B09B-3775E404D574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A248A4D-920B-4DB7-BDCC-37AB2AD38380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A248A4D-920B-4DB7-BDCC-37AB2AD38380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A248A4D-920B-4DB7-BDCC-37AB2AD38380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A248A4D-920B-4DB7-BDCC-37AB2AD38380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
