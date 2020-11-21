@@ -61,7 +61,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "590. N叉树的后序遍历
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "78. 子集", "78. 子集\78. 子集.csproj", "{5DCD2210-7975-494A-8249-D7929AB90691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "237. 删除链表中的节点", "237. 删除链表中的节点\237. 删除链表中的节点.csproj", "{6BB47368-EBAA-4FA7-BA40-A7D755A5EECD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "237. 删除链表中的节点", "237. 删除链表中的节点\237. 删除链表中的节点.csproj", "{6BB47368-EBAA-4FA7-BA40-A7D755A5EECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "617. 合并二叉树", "617. 合并二叉树\617. 合并二叉树.csproj", "{2B5A916C-3601-443B-B993-006CB67B8963}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{6BB47368-EBAA-4FA7-BA40-A7D755A5EECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BB47368-EBAA-4FA7-BA40-A7D755A5EECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BB47368-EBAA-4FA7-BA40-A7D755A5EECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5A916C-3601-443B-B993-006CB67B8963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5A916C-3601-443B-B993-006CB67B8963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5A916C-3601-443B-B993-006CB67B8963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5A916C-3601-443B-B993-006CB67B8963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
