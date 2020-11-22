@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "237. 删除链表中的节�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "617. 合并二叉树", "617. 合并二叉树\617. 合并二叉树.csproj", "{2B5A916C-3601-443B-B993-006CB67B8963}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1299. 将每个元素替换为右侧最大元素", "1299. 将每个元素替换为右侧最大元素\1299. 将每个元素替换为右侧最大元素.csproj", "{DE2967BB-9EC1-44ED-8BE5-111E15795CCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1299. 将每个元素替换为右侧最大元素", "1299. 将每个元素替换为右侧最大元素\1299. 将每个元素替换为右侧最大元素.csproj", "{DE2967BB-9EC1-44ED-8BE5-111E15795CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1460. 通过翻转子数组使两个数组相等", "1460. 通过翻转子数组使两个数组相等\1460. 通过翻转子数组使两个数组相等.csproj", "{B0316D71-0ADF-44F6-B9A5-C89DC9B0E385}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{DE2967BB-9EC1-44ED-8BE5-111E15795CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE2967BB-9EC1-44ED-8BE5-111E15795CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE2967BB-9EC1-44ED-8BE5-111E15795CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0316D71-0ADF-44F6-B9A5-C89DC9B0E385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0316D71-0ADF-44F6-B9A5-C89DC9B0E385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0316D71-0ADF-44F6-B9A5-C89DC9B0E385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0316D71-0ADF-44F6-B9A5-C89DC9B0E385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
