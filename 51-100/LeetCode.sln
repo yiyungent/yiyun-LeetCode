@@ -69,7 +69,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1299. 将每个元素替换
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1460. 通过翻转子数组使两个数组相等", "1460. 通过翻转子数组使两个数组相等\1460. 通过翻转子数组使两个数组相等.csproj", "{B0316D71-0ADF-44F6-B9A5-C89DC9B0E385}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "709. 转换成小写字母", "709. 转换成小写字母\709. 转换成小写字母.csproj", "{5E6F8EA9-D449-4035-B736-2C39EEE1C94C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "709. 转换成小写字母", "709. 转换成小写字母\709. 转换成小写字母.csproj", "{5E6F8EA9-D449-4035-B736-2C39EEE1C94C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1662. 检查两个字符串数组是否相等", "1662. 检查两个字符串数组是否相等\1662. 检查两个字符串数组是否相等.pyproj", "{6CC0B8C1-1CFB-43F2-A029-4E35C9E9132D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,8 @@ Global
 		{5E6F8EA9-D449-4035-B736-2C39EEE1C94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E6F8EA9-D449-4035-B736-2C39EEE1C94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E6F8EA9-D449-4035-B736-2C39EEE1C94C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC0B8C1-1CFB-43F2-A029-4E35C9E9132D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC0B8C1-1CFB-43F2-A029-4E35C9E9132D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
