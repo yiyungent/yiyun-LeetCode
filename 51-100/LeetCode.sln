@@ -73,6 +73,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "709. 转换成小写字母"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1662. 检查两个字符串数组是否相等", "1662. 检查两个字符串数组是否相等\1662. 检查两个字符串数组是否相等.pyproj", "{6CC0B8C1-1CFB-43F2-A029-4E35C9E9132D}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "剑指 Offer 64. 求1+2+…+n", "剑指 Offer 64. 求1+2+…+n\剑指 Offer 64. 求1+2+…+n.pyproj", "{FF477A08-C286-4D93-ABE7-B45005B31C9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +219,8 @@ Global
 		{5E6F8EA9-D449-4035-B736-2C39EEE1C94C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6CC0B8C1-1CFB-43F2-A029-4E35C9E9132D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6CC0B8C1-1CFB-43F2-A029-4E35C9E9132D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF477A08-C286-4D93-ABE7-B45005B31C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF477A08-C286-4D93-ABE7-B45005B31C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
