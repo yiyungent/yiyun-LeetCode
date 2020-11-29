@@ -77,6 +77,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "剑指 Offer 64. 求1+2+…
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "535. TinyURL 的加密与解密", "535. TinyURL 的加密与解密\535. TinyURL 的加密与解密.pyproj", "{670BCEDB-DCB0-4E09-B9DE-72EB11835869}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "22. 括号生成", "22. 括号生成\22. 括号生成.pyproj", "{31F009FA-A9F1-40C5-A32F-2AB47B585AE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,8 @@ Global
 		{FF477A08-C286-4D93-ABE7-B45005B31C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{670BCEDB-DCB0-4E09-B9DE-72EB11835869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{670BCEDB-DCB0-4E09-B9DE-72EB11835869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F009FA-A9F1-40C5-A32F-2AB47B585AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F009FA-A9F1-40C5-A32F-2AB47B585AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
