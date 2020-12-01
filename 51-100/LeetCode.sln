@@ -83,6 +83,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "976. 三角形的最大周�
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1561. 你可以获得的最大硬币数目", "1561. 你可以获得的最大硬币数目\1561. 你可以获得的最大硬币数目.pyproj", "{EFC0349D-28C5-4A49-8B01-D0C86F11CE15}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1672. 最富有客户的资产总量", "1672. 最富有客户的资产总量\1672. 最富有客户的资产总量.pyproj", "{63E0A23B-80CB-4A10-97F9-B9DF439DD620}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,8 @@ Global
 		{B29A62C8-15B0-41DD-8F62-AF8787D4407A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFC0349D-28C5-4A49-8B01-D0C86F11CE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EFC0349D-28C5-4A49-8B01-D0C86F11CE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E0A23B-80CB-4A10-97F9-B9DF439DD620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E0A23B-80CB-4A10-97F9-B9DF439DD620}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
