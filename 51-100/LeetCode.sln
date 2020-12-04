@@ -89,6 +89,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "面试题 02.02. 返回倒�
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1669. 合并两个链表", "1669. 合并两个链表\1669. 合并两个链表.pyproj", "{47A5D8B7-88DF-4ADD-A3B1-879633C681ED}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "763. 划分字母区间", "763. 划分字母区间\763. 划分字母区间.pyproj", "{0B6973CF-CC77-46E8-BC52-06479D925243}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,8 @@ Global
 		{61941743-AA29-4D1D-A27D-71E83B59FC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47A5D8B7-88DF-4ADD-A3B1-879633C681ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{47A5D8B7-88DF-4ADD-A3B1-879633C681ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6973CF-CC77-46E8-BC52-06479D925243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6973CF-CC77-46E8-BC52-06479D925243}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
