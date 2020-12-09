@@ -95,6 +95,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "141. 环形链表", "141. �
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "80. 删除排序数组中的重复项 II", "80. 删除排序数组中的重复项 II\80. 删除排序数组中的重复项 II.pyproj", "{A1787A8C-4CC7-4CF4-AF0F-A5EC7B234E84}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "345. 反转字符串中的元音字母", "345. 反转字符串中的元音字母\345. 反转字符串中的元音字母.pyproj", "{81548B74-F66A-4043-812E-7D9F6A2927E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,8 @@ Global
 		{8D7DD206-1BD0-4031-B081-C31B3A96D1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1787A8C-4CC7-4CF4-AF0F-A5EC7B234E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A1787A8C-4CC7-4CF4-AF0F-A5EC7B234E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81548B74-F66A-4043-812E-7D9F6A2927E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81548B74-F66A-4043-812E-7D9F6A2927E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
