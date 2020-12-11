@@ -99,6 +99,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "345. 反转字符串中的�
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "904. 水果成篮", "904. 水果成篮\904. 水果成篮.pyproj", "{FC0C497F-AB49-459A-B0E5-38A27FD05F1C}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "977. 有序数组的平方", "977. 有序数组的平方\977. 有序数组的平方.pyproj", "{A74E9D1B-BED8-46F3-86EC-87E678C4E25B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -269,6 +271,8 @@ Global
 		{81548B74-F66A-4043-812E-7D9F6A2927E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC0C497F-AB49-459A-B0E5-38A27FD05F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FC0C497F-AB49-459A-B0E5-38A27FD05F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74E9D1B-BED8-46F3-86EC-87E678C4E25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74E9D1B-BED8-46F3-86EC-87E678C4E25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
