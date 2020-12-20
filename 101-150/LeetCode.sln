@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1093. 大样本统计", "10
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "349. 两个数组的交集", "349. 两个数组的交集\349. 两个数组的交集.pyproj", "{44ECF57A-89C5-4FE4-8FF3-B0EDA0DDFDEA}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "19. 删除链表的倒数第N个节点", "19. 删除链表的倒数第N个节点\19. 删除链表的倒数第N个节点.pyproj", "{F26E5103-983F-4440-A2FB-39F88AB5B8A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{C09DFBA0-FD7A-4981-91A4-AD6E8FD7EAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44ECF57A-89C5-4FE4-8FF3-B0EDA0DDFDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{44ECF57A-89C5-4FE4-8FF3-B0EDA0DDFDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26E5103-983F-4440-A2FB-39F88AB5B8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26E5103-983F-4440-A2FB-39F88AB5B8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
