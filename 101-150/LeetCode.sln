@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "234. 回文链表", "234. �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26. 删除排序数组中的重复项", "26. 删除排序数组中的重复项\26. 删除排序数组中的重复项.vcxproj", "{96ABD8A6-C136-4C0E-95B8-126C27145511}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. 合并两个有序数组", "88. 合并两个有序数组\88. 合并两个有序数组.csproj", "{F8581FFD-5452-4F20-9844-BE03B8FAFD08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,18 @@ Global
 		{96ABD8A6-C136-4C0E-95B8-126C27145511}.Release|x64.Build.0 = Release|x64
 		{96ABD8A6-C136-4C0E-95B8-126C27145511}.Release|x86.ActiveCfg = Release|Win32
 		{96ABD8A6-C136-4C0E-95B8-126C27145511}.Release|x86.Build.0 = Release|Win32
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Debug|x64.Build.0 = Debug|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Debug|x86.Build.0 = Debug|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Release|x64.ActiveCfg = Release|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Release|x64.Build.0 = Release|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Release|x86.ActiveCfg = Release|Any CPU
+		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
