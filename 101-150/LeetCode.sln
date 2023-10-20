@@ -17,7 +17,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "234. 回文链表", "234. �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26. 删除排序数组中的重复项", "26. 删除排序数组中的重复项\26. 删除排序数组中的重复项.vcxproj", "{96ABD8A6-C136-4C0E-95B8-126C27145511}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. 合并两个有序数组", "88. 合并两个有序数组\88. 合并两个有序数组.csproj", "{F8581FFD-5452-4F20-9844-BE03B8FAFD08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "88. 合并两个有序数组", "88. 合并两个有序数组\88. 合并两个有序数组.csproj", "{F8581FFD-5452-4F20-9844-BE03B8FAFD08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "844. 比较含退格的字符串", "844. 比较含退格的字符串\844. 比较含退格的字符串.csproj", "{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,18 @@ Global
 		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Release|x64.Build.0 = Release|Any CPU
 		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Release|x86.ActiveCfg = Release|Any CPU
 		{F8581FFD-5452-4F20-9844-BE03B8FAFD08}.Release|x86.Build.0 = Release|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Debug|x64.Build.0 = Debug|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Debug|x86.Build.0 = Debug|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Release|x64.ActiveCfg = Release|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Release|x64.Build.0 = Release|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Release|x86.ActiveCfg = Release|Any CPU
+		{7D56B47A-5FC6-4C5B-A30A-2D60C56A3D23}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
